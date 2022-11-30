@@ -14,7 +14,7 @@
   <img align="center" alt="Dany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dany-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
- <img align="right" alt="Dany-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901543241898401892/1047484228096499762/download20221103090518.png?width=593&height=593"/>
+ <img align="right" alt="Dany-pic" height="200" style="border-radius:50px;" src="https://discord.com/channels/@me/901543241898401892"/>
 
 
 </div>
