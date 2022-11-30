@@ -16,7 +16,7 @@
   <img align="center" alt="Dany-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Dany-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
  
- <img align="right" alt="Dany-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901543241898401892/1047484228096499762/download20221103090518.png"/>
+ <img align="right" alt="Dany-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901543241898401892/1047510586545672273/download20221103104352.png?width=593&height=593"/>
 
 
 </div>
