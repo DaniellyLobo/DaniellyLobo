@@ -14,7 +14,7 @@
   <img align="center" alt="Dany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dany-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
- <img align="right" alt="Dany-pic" height="200" style="border-radius:50px;" src="https://discord.com/channels/@me/901543241898401892"/>
+ <img align="right" alt="Dany-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901543241898401892/1047484228096499762/download20221103090518.png"/>
 
 
 </div>
@@ -23,7 +23,7 @@
 
 <div> 
   <a href="https://www.instagram.com/dany.red_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="Danielly Lobo#6454" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/channels/@me/901543241898401892" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "daniellylobo88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
