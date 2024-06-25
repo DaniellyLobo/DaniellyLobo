@@ -1,8 +1,7 @@
 ### Oi! Eu sou a Danielly Lobo.
 
-- 🔭 Começando no Front-End e Back-End.
+- 🔭 Aprendendo Front-End e Back-End.
 - 🌱 Ensino médio com Desenvolvimento de Sistemas.
-- 😄 Pronouns: ela/dela.
  
  <div align="center">
   <a href="https://github.com/Daniellylobo">
